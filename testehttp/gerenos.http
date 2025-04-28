@@ -1,3 +1,3 @@
-@url = https://super-duper-bassoon-4jq5x96x6w4rcj4j4-3000.app.github.dev/
+@url = https://super-duper-bassoon-4jq5x96x6w4rcj4j4-3000.app.github.dev
 
-GET {{url}}generos
+GET {{url}}/api/v1/generos
